@@ -1,16 +1,15 @@
-# flutter_application_1
+# Dio API App
 
-A new Flutter project.
+Простое Flutter-приложение для получения и отображения данных с API с использованием Dio и JSON сериализации.
 
-## Getting Started
+## Как запустить
 
-This project is a starting point for a Flutter application.
+1. Клонировать репозиторий
+2. Выполнить `flutter pub get`
+3. Запустить проект: `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Используемые технологии
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dio
+- json_serializable
